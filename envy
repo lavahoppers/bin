@@ -1,5 +1,5 @@
 #! /bin/sh
 
-envy_path=$(dirname "$(readlink -f "$0")")/lib/envy.py
+envy_path=$(dirname "$(readlink -f "$0")")/lib/envy/envy.py
 
 python3 $envy_path $@

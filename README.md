@@ -6,7 +6,7 @@ A collection of useful scripts for your path
 Clone this repository to your machine; I recommend the home directory. Add the repository to your path, and then you can use the scripts from anywhere!
 
 Envy Examples
---------
+-------------
 
 ```bash
 # show values of the PATH and JAVA_HOME environment variables
@@ -45,4 +45,12 @@ envy -p YOSHI "yoshi's value"
 ```bash
 # delete (kill) an environment variable 
 envy -k YOSHI
+```
+
+MdUtil Examples
+----------------
+
+```bash
+# print a markdown table from a csv, tsv, or tab file.
+mdutil --table data.csv
 ```
