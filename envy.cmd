@@ -1,2 +1,2 @@
 @echo off
-python %~dp0lib\envy.py %*
+python %~dp0lib\envy\envy.py %*
