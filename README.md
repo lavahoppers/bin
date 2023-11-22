@@ -1,12 +1,5 @@
-bin
-===
-
-A collection of useful scripts for your path
-
-Clone this repository to your machine; I recommend the home directory. Add the repository to your path, and then you can use the scripts from anywhere!
-
-Envy Examples
--------------
+Envy
+----
 
 ```bash
 # show values of the PATH and JAVA_HOME environment variables

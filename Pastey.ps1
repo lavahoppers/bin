@@ -1,1 +1,0 @@
-python "$PSScriptRoot\pastey.py" -OO
